@@ -1,0 +1,54 @@
+.Wrapper{
+    width: 75%;
+    position: relative;
+    left: 25%;
+    top: -540px;
+    color: gold;
+}
+.w-5{
+    display: inline;
+    width: 90px !important;
+}
+.sort{
+    margin-top: -30px;
+}
+.w-7{
+    width: 60%;
+}
+.h-100{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh !important;
+}
+
+.config{
+    background-color: #DFF7FF;
+    border: 1px solid #5485cd;
+    border-radius: 15px;
+    align-items: center;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    margin-bottom: 20px;
+}
+.starBtn{
+    left: 1000px;
+    width: 100px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    position: relative;
+    top: -180px;
+}
+.yashilsifatchiziq{
+    position: relative;
+    left: 950px;
+    top: -110px;
+    width: 150px;
+    background: #AEEBBA;
+height: 2px;
+}

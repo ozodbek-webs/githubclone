@@ -1,0 +1,182 @@
+.githubIcon {
+  width: 40px;
+  height: 40px;
+
+}
+
+.containers {
+  width: 95% !important;
+  margin: 0 auto !important;
+}
+
+.form-input {
+  align-items: center !important;
+}
+
+.height {
+  align-items: center;
+  height: 70px;
+}
+
+.nav_list {
+  align-items: center;
+  justify-content: space-between;
+  width: 40%;
+  list-style-type: none;
+}
+
+.right_el {
+  width: 10%;
+  list-style-type: none;
+  margin-left: 45%;
+}
+
+.centr_el {
+  height: 50px;
+  font-weight: 600;
+  position: -webkit-sticky;
+  position: sticky;
+  margin: 0 auto;
+  top: 0;
+  width: 35%;
+}
+
+.avatar {
+  z-index: 123;
+  margin-top: -40px;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 1px solid black;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.jhxhbvclhbgdv {
+  z-index: -1212;
+}
+
+.editProfile {
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.ptop {
+  margin-top: -15px;
+}
+
+.containerl {
+  width: 65%;
+  position: absolute;
+  left: 25%;
+  top: 140px;
+}
+
+.card {
+  z-index: -245;
+}
+
+.fw {
+  font-weight: 200;
+}
+
+.d-grid {
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.h25 {
+  height: 130px !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.qizil_D {
+  margin-top: -10px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.Hhtml {
+  font-size: 12px;
+  margin-top: -11px;
+}
+
+.publicBtn {
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border: 1px solid black;
+  position: relative;
+  top: -70px;
+  left: 350px;
+}
+.w-80{
+  width: 87% !important;
+}
+
+div.sticky {
+
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca39;
+  border: 2px solid #4CAF50;
+}
+
+.activeet::after {
+  position: absolute;
+  right: 50%;
+  bottom: calc(50% - 25px);
+  width: 100%;
+  height: 2px;
+  content: "";
+  background: var(--color-primer-border-active);
+  border-radius: 6px;
+  transform: translate(50%, -50%);
+}
+
+
+
+.chiziq{
+  margin-top: 150px;
+  height: 1px;
+  width: 100%;
+  margin-bottom: 50px;
+  background: #97A0A9;
+}
+.gitMush{
+  margin-bottom: 50px;
+}
+.gitInc{position: relative;
+  top: -20px;
+  left: 5px;
+  font-size: 13px;
+}
+.lorem{
+  list-style-type: none;
+  position: relative;
+  top: -70px;
+  left: 170px;
+  width: 65%;
+  color:#256edb;
+  font-size: 13px;
+
+}
