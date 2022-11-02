@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 import githubIcon from '../../../../public/Images/githubIcon.png';
 import Repositories from '../../../../public/Images/Repositories.png';
 import { Outlet, Link, NavLink } from "react-router-dom";
 import req from '../../../API/API';
 
 const Navbar = () => {
-    const [input, setInput] = useState("")
+    const l = JSON.parse(localStorage.getItem("malumot"))
     return (
         <header>
 
@@ -25,9 +25,9 @@ const Navbar = () => {
                             <li>Explore</li>
                         </ul>
                         <ul className='d-flex nav_list right_el'>
-                            <li>q</li>
+                            <li><i class="bi bi-bell"></i></li>
                             <li>+</li>
-                            <li>img</li>
+                            <li><img src={l.avatar_url} alt="" style={{width:"25px",height:"25px"}} className="rounded-circle"/></li>
                         </ul>
                     </div>
 
